@@ -7,11 +7,13 @@
 
 [C# 10 in a Nutshell (Joseph Albahari)](https://www.oreilly.com/library/view/c-10-in/9781098121945/)
 
+[Fundamentals of Software Architecture. An Engineering Approach (Mark Richards & Neal Ford)](https://fundamentalsofsoftwarearchitecture.com/)
+
 [Game Programming Patterns (Robert Nystrom)](https://gameprogrammingpatterns.com/)
 
 [Functional Programming with C# (Simon J. Painter)](https://www.oreilly.com/library/view/functional-programming-with/9781492097068/)
 
-[Fundamentals of Software Architecture. An Engineering Approach (Mark Richards & Neal Ford)](https://fundamentalsofsoftwarearchitecture.com/)
+[Functional Programming in C# (Enrico Buonanno)](https://www.oreilly.com/library/view/functional-programming-in/9781617299827/)
 
 [Pragmatic Test-Driven Development in C# and .NET (Adam Tibi)](https://www.oreilly.com/library/view/pragmatic-test-driven-development/9781803230191/)
 
@@ -26,18 +28,3 @@
 [Dependency Injection in .Net (Scott Millett, Nick Tune)](https://www.manning.com/books/dependency-injection-principles-practices-patterns)
 
 [Unit Testing Principles, Practices, and Patterns (Vladimir Khorikov](https://www.manning.com/books/unit-testing)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Functional Programming in C# (Enrico Buonanno)](https://www.oreilly.com/library/view/functional-programming-in/9781617299827/)
