@@ -1,4 +1,4 @@
-## Novice
+## Basic
 
 [Head First C# (Andrew Stellman, Jennifer Greene)](https://www.oreilly.com/library/view/head-first-c/9781491976692/)
 
