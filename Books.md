@@ -7,6 +7,8 @@
 
 [C# 10 in a Nutshell (Joseph Albahari)](https://www.oreilly.com/library/view/c-10-in/9781098121945/)
 
+[Game Programming Patterns (Robert Nystrom)](https://gameprogrammingpatterns.com/)
+
 [Functional Programming with C# (Simon J. Painter)](https://www.oreilly.com/library/view/functional-programming-with/9781492097068/)
 
 [Fundamentals of Software Architecture. An Engineering Approach (Mark Richards & Neal Ford)](https://fundamentalsofsoftwarearchitecture.com/)
