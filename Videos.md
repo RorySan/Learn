@@ -1,4 +1,4 @@
-# Architecture, Unity, 
+# Architecture, Unity
 Resources, videos, courses, bibliography
 
 ## Scriptable Objects
@@ -10,7 +10,14 @@ Resources, videos, courses, bibliography
 
 [Unite '17 Seoul -  ScriptableObjects What they are and why to use them](https://www.youtube.com/watch?v=VtuSKmfrFDU)
 
-## Best Práctices
+## Architecture
+[Designing for change with Vertical Slice Architecture - Chris Sainty - NDC London 2024](https://youtu.be/_1rjo2l17kI?si=SPAAr8OWFY7qfiYp)
+
+[Fractal Architecture - Mark Seemann - NDC Oslo 2022](https://www.youtube.com/watch?v=mRbTMlE5ElA)
+
+[The Grand Unified Theory of Clean Architecture and Test Pyramid - Guilherme Ferreira - NDC Oslo 2022](https://www.youtube.com/watch?v=8BuCzpfp8Pk)
+
+## Best Practices
 [Best practices: Async vs. coroutines - Unite Copenhagen](https://www.youtube.com/watch?v=7eKi6NKri6I&list=PLX2vGYjWbI0RzLRaqsqcgnuc2RvLPTUmi&index=16)
 
 [[GameDev Stream] Advanced Project Setup in Unity (7/12/2020)](https://www.youtube.com/watch?v=ITnUq2AeC40)
@@ -23,7 +30,6 @@ Resources, videos, courses, bibliography
 [Unite Europe 2017 - Squeezing Unity: Tips for raising performance](https://www.youtube.com/watch?v=_wxitgdx-UI)
 
 [Unite 2016 - Let's Talk (Content) Optimization](https://www.youtube.com/watch?v=n-oZa4Fb12U)
-
 
 ## Editor Scripting
 [Unite 2011 - Intro to Editor Scripting](https://www.youtube.com/watch?v=6dnQX0ChOsA)
@@ -75,11 +81,6 @@ Resources, videos, courses, bibliography
 
 [An introduction to functional programming with C#](https://www.youtube.com/watch?v=xwDhKV7CqAY)
 
-## Architecture
-
-[Fractal Architecture - Mark Seemann - NDC Oslo 2022](https://www.youtube.com/watch?v=mRbTMlE5ElA)
-
-[The Grand Unified Theory of Clean Architecture and Test Pyramid - Guilherme Ferreira - NDC Oslo 2022](https://www.youtube.com/watch?v=8BuCzpfp8Pk)
 
 ## Nulable Reference Types
 
